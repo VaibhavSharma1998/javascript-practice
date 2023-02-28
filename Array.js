@@ -29,3 +29,5 @@ let arr =[]
 // console.log(arr.length);
 
 arr.length === 0 ?  console.log('Array is empty buddy!'):console.log('Array is not empty buddy!');
+
+// added hello world!
